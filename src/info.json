@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "student_id": 6630250371,
+      "first_name": "Phoodis",
+      "last_name": "Phokhamart",
+      "Faculty": "Science",
+      "department": "Computer Science",
+      "year": "1",
+      "email": "Phoodis.p@ku.th",
+      "faculty": "Science",
+      "courses": [
+        { "code": "01418214",
+        "name": "Practicum in Software Development",
+        "credits": 1,
+        "grade": "N"
+        },
+        {
+        "code": "01418132",
+        "name": "Fundamentals of Computing",
+        "credits": 3,
+        "grade": "N"
+        },
+        {
+        "code": "01418236",
+        "name": "Operating Systems",
+        "credits": 3,
+        "grade": "N"
+        },
+        {
+        "code": "01355102",
+        "name": "English for University Life",
+        "credits": 3,
+        "grade": "N"
+        },
+        {
+        "code": "01418261",
+        "name": "Fundamentals of Artificial Intelligence",
+        "credits": 3,
+        "grade": "N"
+        },
+        {
+        "code": "01418222",
+        "name": "Enterprise Information System",
+        "credits": 3,
+        "grade": "N"
+        },
+        {
+        "code": "01417322",
+        "name": "Basic Linear Algebra",
+        "credits": 3,
+        "grade": "N"
+        },
+        {
+        "code": "01418221",
+        "name": "Fundamentals of Database Systems",
+        "credits": 3,
+        "grade": "N"
+        }
+      ]
+    }
+  ]
+}
